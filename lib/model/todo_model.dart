@@ -1,8 +1,8 @@
 class TodoModel {
-  String todoAction;
+  String todoTitle;
   bool completed;
 
-  TodoModel({required this.todoAction, this.completed = false});
+  TodoModel({required this.todoTitle, this.completed = false});
 
   void toggleCompleted() {
     completed = !completed;
