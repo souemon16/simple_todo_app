@@ -8,11 +8,9 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-<img src="screenshots/1.png"/>
-
 | 1 | 2|
 |------|-------|
-|<img src="screenshots/2.png" width="400">|<img src="ss/3.png" width="400">|
+|<img src="screenshots/1.png" width="400">|<img src="ss/3.png" width="400">||<img src="screenshots/2.png" width="400">|<img src="ss/3.png" width="400">|
 
 
 
